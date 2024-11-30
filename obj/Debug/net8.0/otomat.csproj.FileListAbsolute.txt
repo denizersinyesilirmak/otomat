@@ -1,0 +1,14 @@
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.AssemblyInfo.cs
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\otomat\bin\Debug\net8.0\otomat.exe
+C:\Users\deniz\Desktop\otomat\bin\Debug\net8.0\otomat.deps.json
+C:\Users\deniz\Desktop\otomat\bin\Debug\net8.0\otomat.runtimeconfig.json
+C:\Users\deniz\Desktop\otomat\bin\Debug\net8.0\otomat.dll
+C:\Users\deniz\Desktop\otomat\bin\Debug\net8.0\otomat.pdb
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.dll
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\refint\otomat.dll
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.pdb
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\otomat.genruntimeconfig.cache
+C:\Users\deniz\Desktop\otomat\obj\Debug\net8.0\ref\otomat.dll
