@@ -31,7 +31,7 @@ namespace otomat
                     case 2:
                         fiyat = Kola;
                         break;
-                    default:
+                    case 3:
                         fiyat = Cikolata;
                         break;
                 }
